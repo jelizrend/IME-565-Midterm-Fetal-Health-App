@@ -3,7 +3,7 @@
 # Import libraries
 import streamlit as st
 import pandas as pd
-import sklean
+import sklearn
 import pickle
 import warnings
 warnings.filterwarnings('ignore')
